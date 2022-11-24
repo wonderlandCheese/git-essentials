@@ -1,2 +1,2 @@
-Only show on the new branch
+Only show on the new branch and main
 
